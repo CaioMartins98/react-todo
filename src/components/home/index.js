@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../Footer';
 import Header from '../Header';
+import TodoList from '../Todolist';
 
 const Home = () => {
   return (
@@ -8,7 +9,7 @@ const Home = () => {
       <Header>
       <h1>ToDo List</h1>
       </Header>
-      
+      <TodoList/>
       <Footer />
     
     </div>
