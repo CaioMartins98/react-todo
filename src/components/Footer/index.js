@@ -10,8 +10,9 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  position: absolute;
+  position: fixed;
   bottom: 0px;
+  left: 0;
   width: 100%;
   
   & > p{
