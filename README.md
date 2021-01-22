@@ -23,7 +23,7 @@
 ##### As seguintes tecnologias foram usadas para a construção do projeto:
 ##### Front-end:
 - [x] HTML
-- [x] CSS
+- [x] CSS - StyledComponents
 - [x] JavaScript
 
 ##### Framework:
